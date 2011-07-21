@@ -1,0 +1,7 @@
+git submodule add git://github.com/sstephenson/eco.git lib/eco
+git submodule add git://github.com/documentcloud/backbone.git lib/backbone
+git submodule add git://github.com/Modernizr/Modernizr.git lib/modernizr
+git submodule add git://github.com/LearnBoost/Socket.IO.git lib/socket.io
+git submodule add git://github.com/documentcloud/underscore.git lib/underscore
+git submodule add git://github.com/edtsech/underscore.string.git lib/underscore.string
+git submodule add git://github.com/madrobby/zepto.git lib/zepto

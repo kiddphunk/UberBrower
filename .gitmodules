@@ -1,0 +1,24 @@
+[submodule "lib/eco"]
+	path = lib/eco
+	url = git://github.com/sstephenson/eco.git
+[submodule "lib/backbone"]
+	path = lib/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "lib/modernizr"]
+	path = lib/modernizr
+	url = git://github.com/Modernizr/Modernizr.git
+[submodule "lib/socket.io"]
+	path = lib/socket.io
+	url = git://github.com/LearnBoost/Socket.IO.git
+[submodule "lib/underscore"]
+	path = lib/underscore
+	url = git://github.com/documentcloud/underscore.git
+[submodule "lib/underscore.string"]
+	path = lib/underscore.string
+	url = git://github.com/edtsech/underscore.string.git
+[submodule "lib/zepto"]
+	path = lib/zepto
+	url = git://github.com/madrobby/zepto.git
+[submodule "lib/coffee-script"]
+	path = lib/coffee-script
+	url = https://github.com/jashkenas/coffee-script.git
